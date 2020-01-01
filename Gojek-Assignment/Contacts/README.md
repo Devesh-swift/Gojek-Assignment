@@ -1,4 +1,4 @@
-Contacts Application
+## Contacts Application
 
 Contacts app is similar to the iOS Contacts app but with a much smaller feature set like show, add and edit contacts.\
 
